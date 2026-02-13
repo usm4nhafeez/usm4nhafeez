@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on  
-Full-stack web and mobile applications using the MERN stack, React Native, and Django, along with AI-powered systems like real-time object detection and computer vision solutions.<br><br>
+Full-stack web and mobile applications using the MERN stack, React Native,Flutter and Django, along with AI-powered systems like real-time object detection and computer vision solutions.<br><br>
 
 👯 I’m looking to collaborate on  
 Open-source MERN and Django projects, React Native apps, AI-assisted platforms, and software solutions that solve real-world problems.<br><br>
@@ -40,6 +40,7 @@ I enjoy combining full-stack development with AI to build practical, impact-driv
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=plastic&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
@@ -50,8 +51,8 @@ I enjoy combining full-stack development with AI to build practical, impact-driv
 ---
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=usm4nhafeez&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=usm4nhafeez&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=usm4nhafeez&show_icons=true&theme=dark&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=usm4nhafeez&theme=dark&layout=compact&count_private=true)
 
 ---
 
