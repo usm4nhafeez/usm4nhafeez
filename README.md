@@ -1,22 +1,22 @@
-# 💫 About Me:
-🔭 I’m currently working on  
-Full-stack web and mobile applications using the MERN stack, React Native,Flutter and Django, along with AI-powered systems like real-time object detection and computer vision solutions.<br><br>
+# 💫 About Me
 
-👯 I’m looking to collaborate on  
-Open-source MERN and Django projects, React Native apps, AI-assisted platforms, and software solutions that solve real-world problems.<br><br>
+🔭 **Current Work:**  
+I am actively developing full-stack web and mobile applications using the MERN stack, React Native, Flutter, and Django. In addition, I work on AI-powered systems, including real-time object detection and computer vision solutions, applying practical AI techniques to solve complex problems.  
 
-🤝 I’m looking for help with  
-Designing scalable backend architectures, optimizing application performance, deploying Django apps to production, and integrating AI models efficiently.<br><br>
+👯 **Collaboration Interests:**  
+I am eager to collaborate on open-source MERN and Django projects, React Native mobile applications, AI-assisted platforms, and software solutions that address real-world challenges and have tangible impact.  
 
-🌱 I’m currently learning  
-Django (backend development, ORM, authentication), Next.js, system design principles, and on-device AI model optimization.<br><br>
+🤝 **Seeking Assistance With:**  
+I am looking for guidance in designing scalable backend architectures, optimizing application performance, deploying Django applications to production, and efficiently integrating AI models into real-time systems.  
 
-💬 Ask me about  
-MERN stack development, Django backend, REST APIs, JWT authentication, React Native camera integrations, and real-time object detection.<br><br>
+🌱 **Currently Learning:**  
+I am expanding my expertise in Django (backend development, ORM, authentication), Next.js, system design principles, and optimizing AI models for on-device deployment.  
 
-⚡ Fun fact  
-I enjoy combining full-stack development with AI to build practical, impact-driven applications.
+💬 **Topics to Discuss:**  
+I enjoy sharing knowledge and insights about MERN stack development, Django backend architecture, REST APIs, JWT authentication, React Native camera integrations, and real-time object detection systems.  
 
+⚡ **Fun Fact:**  
+I am passionate about combining full-stack development with AI to build practical, impact-driven applications that solve real-world problems.
 ---
 
 ## 🌐 Socials:
@@ -51,11 +51,11 @@ I enjoy combining full-stack development with AI to build practical, impact-driv
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=usm4nhafeez&show_icons=true&theme=dark&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=usm4nhafeez&theme=dark&layout=compact&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=usm4nhafeez&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=usm4nhafeez&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
 [![](https://visitcount.itsvg.in/api?id=usm4nhafeez&icon=2&color=6)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
