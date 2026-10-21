@@ -38,6 +38,7 @@
 </tr>
 </table>
 
+
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
 ## About
@@ -240,7 +241,7 @@ Built and shipped Android and iOS applications with Flutter, integrated RFID har
 </picture>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=usm4nhafeez&theme=dark&hide_border=true" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=usm4nhafeez&theme=dark&hide_border=true" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usm4nhafeez&layout=compact&theme=dark&hide_border=true&langs_count=8" width="49%" />
 </p>
 
