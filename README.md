@@ -1,9 +1,18 @@
 <div align="center">
 
+
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=usm4nhafeez&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F154317430%3Fu%3D8f37ced2c26193683ec1928fa174735c326d48ea%26v%3D4&variant=living-identity&label=Muhammad%20Usman&v=wow-living-identity-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=usm4nhafeez&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F154317430%3Fu%3D8f37ced2c26193683ec1928fa174735c326d48ea%26v%3D4&variant=living-identity&label=Muhammad%20Usman&v=wow-living-identity-1&mode=dark" width="100%" alt="Muhammad Usman" />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://www.gitskins.com/api/section/hero?username=usm4nhafeez&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F154317430%3Fv%3D4&variant=living-identity&label=Muhammad%20Usman&v=wow-living-identity-1&mode=light"
+  />
+  <img
+    src="https://www.gitskins.com/api/section/hero?username=usm4nhafeez&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F154317430%3Fv%3D4&variant=living-identity&label=Muhammad%20Usman&v=wow-living-identity-1&mode=dark"
+    width="100%"
+    alt="Muhammad Usman"
+  />
 </picture>
+
 
 <p><strong>Backend Developer · Java · Spring Boot · Spring AI · Oracle</strong></p>
 <p>Software Development Intern at TechLogix · Software Engineering Graduate · Lahore, Pakistan</p>
